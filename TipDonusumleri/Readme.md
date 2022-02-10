@@ -1,0 +1,2 @@
+# Tip Dönüsümleri mevcut
+#

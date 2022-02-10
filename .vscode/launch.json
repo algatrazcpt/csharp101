@@ -9,10 +9,10 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Operatorler/bin/Debug/net6.0/Operatorler.dll",
+            "program": "${workspaceFolder}/MyApp/bin/Debug/net6.0/MyApp.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Operatorler",
-            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/MyApp",
+            "console": "externalTerminal",
             "stopAtEntry": false
         },
         {

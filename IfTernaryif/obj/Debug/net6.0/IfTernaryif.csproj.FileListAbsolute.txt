@@ -1,0 +1,15 @@
+C:\Users\Page\Patika\C#101\IfTernaryif\bin\Debug\net6.0\IfTernaryif.exe
+C:\Users\Page\Patika\C#101\IfTernaryif\bin\Debug\net6.0\IfTernaryif.deps.json
+C:\Users\Page\Patika\C#101\IfTernaryif\bin\Debug\net6.0\IfTernaryif.runtimeconfig.json
+C:\Users\Page\Patika\C#101\IfTernaryif\bin\Debug\net6.0\IfTernaryif.dll
+C:\Users\Page\Patika\C#101\IfTernaryif\bin\Debug\net6.0\ref\IfTernaryif.dll
+C:\Users\Page\Patika\C#101\IfTernaryif\bin\Debug\net6.0\IfTernaryif.pdb
+C:\Users\Page\Patika\C#101\IfTernaryif\obj\Debug\net6.0\IfTernaryif.csproj.AssemblyReference.cache
+C:\Users\Page\Patika\C#101\IfTernaryif\obj\Debug\net6.0\IfTernaryif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Page\Patika\C#101\IfTernaryif\obj\Debug\net6.0\IfTernaryif.AssemblyInfoInputs.cache
+C:\Users\Page\Patika\C#101\IfTernaryif\obj\Debug\net6.0\IfTernaryif.AssemblyInfo.cs
+C:\Users\Page\Patika\C#101\IfTernaryif\obj\Debug\net6.0\IfTernaryif.csproj.CoreCompileInputs.cache
+C:\Users\Page\Patika\C#101\IfTernaryif\obj\Debug\net6.0\IfTernaryif.dll
+C:\Users\Page\Patika\C#101\IfTernaryif\obj\Debug\net6.0\ref\IfTernaryif.dll
+C:\Users\Page\Patika\C#101\IfTernaryif\obj\Debug\net6.0\IfTernaryif.pdb
+C:\Users\Page\Patika\C#101\IfTernaryif\obj\Debug\net6.0\IfTernaryif.genruntimeconfig.cache

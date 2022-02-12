@@ -1,0 +1,1 @@
+# Hata yakalama çeşitleri var

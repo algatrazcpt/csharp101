@@ -1,0 +1,15 @@
+C:\Users\Page\Patika\C#101\ArraySinifMethodlar\bin\Debug\net6.0\ArraySinifMethodlar.exe
+C:\Users\Page\Patika\C#101\ArraySinifMethodlar\bin\Debug\net6.0\ArraySinifMethodlar.deps.json
+C:\Users\Page\Patika\C#101\ArraySinifMethodlar\bin\Debug\net6.0\ArraySinifMethodlar.runtimeconfig.json
+C:\Users\Page\Patika\C#101\ArraySinifMethodlar\bin\Debug\net6.0\ArraySinifMethodlar.dll
+C:\Users\Page\Patika\C#101\ArraySinifMethodlar\bin\Debug\net6.0\ref\ArraySinifMethodlar.dll
+C:\Users\Page\Patika\C#101\ArraySinifMethodlar\bin\Debug\net6.0\ArraySinifMethodlar.pdb
+C:\Users\Page\Patika\C#101\ArraySinifMethodlar\obj\Debug\net6.0\ArraySinifMethodlar.csproj.AssemblyReference.cache
+C:\Users\Page\Patika\C#101\ArraySinifMethodlar\obj\Debug\net6.0\ArraySinifMethodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Page\Patika\C#101\ArraySinifMethodlar\obj\Debug\net6.0\ArraySinifMethodlar.AssemblyInfoInputs.cache
+C:\Users\Page\Patika\C#101\ArraySinifMethodlar\obj\Debug\net6.0\ArraySinifMethodlar.AssemblyInfo.cs
+C:\Users\Page\Patika\C#101\ArraySinifMethodlar\obj\Debug\net6.0\ArraySinifMethodlar.csproj.CoreCompileInputs.cache
+C:\Users\Page\Patika\C#101\ArraySinifMethodlar\obj\Debug\net6.0\ArraySinifMethodlar.dll
+C:\Users\Page\Patika\C#101\ArraySinifMethodlar\obj\Debug\net6.0\ref\ArraySinifMethodlar.dll
+C:\Users\Page\Patika\C#101\ArraySinifMethodlar\obj\Debug\net6.0\ArraySinifMethodlar.pdb
+C:\Users\Page\Patika\C#101\ArraySinifMethodlar\obj\Debug\net6.0\ArraySinifMethodlar.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Page\Patika\C#101\ForBreak\bin\Debug\net6.0\ForBreak.exe
+C:\Users\Page\Patika\C#101\ForBreak\bin\Debug\net6.0\ForBreak.deps.json
+C:\Users\Page\Patika\C#101\ForBreak\bin\Debug\net6.0\ForBreak.runtimeconfig.json
+C:\Users\Page\Patika\C#101\ForBreak\bin\Debug\net6.0\ForBreak.dll
+C:\Users\Page\Patika\C#101\ForBreak\bin\Debug\net6.0\ref\ForBreak.dll
+C:\Users\Page\Patika\C#101\ForBreak\bin\Debug\net6.0\ForBreak.pdb
+C:\Users\Page\Patika\C#101\ForBreak\obj\Debug\net6.0\ForBreak.csproj.AssemblyReference.cache
+C:\Users\Page\Patika\C#101\ForBreak\obj\Debug\net6.0\ForBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Page\Patika\C#101\ForBreak\obj\Debug\net6.0\ForBreak.AssemblyInfoInputs.cache
+C:\Users\Page\Patika\C#101\ForBreak\obj\Debug\net6.0\ForBreak.AssemblyInfo.cs
+C:\Users\Page\Patika\C#101\ForBreak\obj\Debug\net6.0\ForBreak.csproj.CoreCompileInputs.cache
+C:\Users\Page\Patika\C#101\ForBreak\obj\Debug\net6.0\ForBreak.dll
+C:\Users\Page\Patika\C#101\ForBreak\obj\Debug\net6.0\ref\ForBreak.dll
+C:\Users\Page\Patika\C#101\ForBreak\obj\Debug\net6.0\ForBreak.pdb
+C:\Users\Page\Patika\C#101\ForBreak\obj\Debug\net6.0\ForBreak.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Page\Patika\C#101\DiziTanimlama\bin\Debug\net6.0\DiziTanimlama.exe
+C:\Users\Page\Patika\C#101\DiziTanimlama\bin\Debug\net6.0\DiziTanimlama.deps.json
+C:\Users\Page\Patika\C#101\DiziTanimlama\bin\Debug\net6.0\DiziTanimlama.runtimeconfig.json
+C:\Users\Page\Patika\C#101\DiziTanimlama\bin\Debug\net6.0\DiziTanimlama.dll
+C:\Users\Page\Patika\C#101\DiziTanimlama\bin\Debug\net6.0\ref\DiziTanimlama.dll
+C:\Users\Page\Patika\C#101\DiziTanimlama\bin\Debug\net6.0\DiziTanimlama.pdb
+C:\Users\Page\Patika\C#101\DiziTanimlama\obj\Debug\net6.0\DiziTanimlama.csproj.AssemblyReference.cache
+C:\Users\Page\Patika\C#101\DiziTanimlama\obj\Debug\net6.0\DiziTanimlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Page\Patika\C#101\DiziTanimlama\obj\Debug\net6.0\DiziTanimlama.AssemblyInfoInputs.cache
+C:\Users\Page\Patika\C#101\DiziTanimlama\obj\Debug\net6.0\DiziTanimlama.AssemblyInfo.cs
+C:\Users\Page\Patika\C#101\DiziTanimlama\obj\Debug\net6.0\DiziTanimlama.csproj.CoreCompileInputs.cache
+C:\Users\Page\Patika\C#101\DiziTanimlama\obj\Debug\net6.0\DiziTanimlama.dll
+C:\Users\Page\Patika\C#101\DiziTanimlama\obj\Debug\net6.0\ref\DiziTanimlama.dll
+C:\Users\Page\Patika\C#101\DiziTanimlama\obj\Debug\net6.0\DiziTanimlama.pdb
+C:\Users\Page\Patika\C#101\DiziTanimlama\obj\Debug\net6.0\DiziTanimlama.genruntimeconfig.cache

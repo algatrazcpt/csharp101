@@ -1,0 +1,15 @@
+C:\Users\Page\Patika\C#101\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\Page\Patika\C#101\SwitchCase\obj\Debug\net6.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Page\Patika\C#101\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\Page\Patika\C#101\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfo.cs
+C:\Users\Page\Patika\C#101\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Page\Patika\C#101\SwitchCase\bin\Debug\net6.0\SwitchCase.exe
+C:\Users\Page\Patika\C#101\SwitchCase\bin\Debug\net6.0\SwitchCase.deps.json
+C:\Users\Page\Patika\C#101\SwitchCase\bin\Debug\net6.0\SwitchCase.runtimeconfig.json
+C:\Users\Page\Patika\C#101\SwitchCase\bin\Debug\net6.0\SwitchCase.dll
+C:\Users\Page\Patika\C#101\SwitchCase\bin\Debug\net6.0\ref\SwitchCase.dll
+C:\Users\Page\Patika\C#101\SwitchCase\bin\Debug\net6.0\SwitchCase.pdb
+C:\Users\Page\Patika\C#101\SwitchCase\obj\Debug\net6.0\SwitchCase.dll
+C:\Users\Page\Patika\C#101\SwitchCase\obj\Debug\net6.0\ref\SwitchCase.dll
+C:\Users\Page\Patika\C#101\SwitchCase\obj\Debug\net6.0\SwitchCase.pdb
+C:\Users\Page\Patika\C#101\SwitchCase\obj\Debug\net6.0\SwitchCase.genruntimeconfig.cache

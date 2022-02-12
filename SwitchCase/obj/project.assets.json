@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Page\\Patika\\C#101\\MyApp\\MyApp.csproj",
-      "projectName": "MyApp",
-      "projectPath": "C:\\Users\\Page\\Patika\\C#101\\MyApp\\MyApp.csproj",
+      "projectUniqueName": "C:\\Users\\Page\\Patika\\C#101\\SwitchCase\\SwitchCase.csproj",
+      "projectName": "SwitchCase",
+      "projectPath": "C:\\Users\\Page\\Patika\\C#101\\SwitchCase\\SwitchCase.csproj",
       "packagesPath": "C:\\Users\\Page\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Page\\Patika\\C#101\\MyApp\\obj\\",
+      "outputPath": "C:\\Users\\Page\\Patika\\C#101\\SwitchCase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Page\\AppData\\Roaming\\NuGet\\NuGet.Config"

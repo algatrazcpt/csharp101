@@ -1,0 +1,1 @@
+# While foreach yapıları mevcut

@@ -1,0 +1,15 @@
+C:\Users\Page\Patika\C#101\MetodTanimlama\bin\Debug\net6.0\MetodTanimlama.exe
+C:\Users\Page\Patika\C#101\MetodTanimlama\bin\Debug\net6.0\MetodTanimlama.deps.json
+C:\Users\Page\Patika\C#101\MetodTanimlama\bin\Debug\net6.0\MetodTanimlama.runtimeconfig.json
+C:\Users\Page\Patika\C#101\MetodTanimlama\bin\Debug\net6.0\MetodTanimlama.dll
+C:\Users\Page\Patika\C#101\MetodTanimlama\bin\Debug\net6.0\ref\MetodTanimlama.dll
+C:\Users\Page\Patika\C#101\MetodTanimlama\bin\Debug\net6.0\MetodTanimlama.pdb
+C:\Users\Page\Patika\C#101\MetodTanimlama\obj\Debug\net6.0\MetodTanimlama.csproj.AssemblyReference.cache
+C:\Users\Page\Patika\C#101\MetodTanimlama\obj\Debug\net6.0\MetodTanimlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Page\Patika\C#101\MetodTanimlama\obj\Debug\net6.0\MetodTanimlama.AssemblyInfoInputs.cache
+C:\Users\Page\Patika\C#101\MetodTanimlama\obj\Debug\net6.0\MetodTanimlama.AssemblyInfo.cs
+C:\Users\Page\Patika\C#101\MetodTanimlama\obj\Debug\net6.0\MetodTanimlama.csproj.CoreCompileInputs.cache
+C:\Users\Page\Patika\C#101\MetodTanimlama\obj\Debug\net6.0\MetodTanimlama.dll
+C:\Users\Page\Patika\C#101\MetodTanimlama\obj\Debug\net6.0\ref\MetodTanimlama.dll
+C:\Users\Page\Patika\C#101\MetodTanimlama\obj\Debug\net6.0\MetodTanimlama.pdb
+C:\Users\Page\Patika\C#101\MetodTanimlama\obj\Debug\net6.0\MetodTanimlama.genruntimeconfig.cache

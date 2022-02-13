@@ -1,0 +1,15 @@
+C:\Users\Page\Patika\C#101\HazirMethodlarString\bin\Debug\net6.0\HazirMethodlarString.exe
+C:\Users\Page\Patika\C#101\HazirMethodlarString\bin\Debug\net6.0\HazirMethodlarString.deps.json
+C:\Users\Page\Patika\C#101\HazirMethodlarString\bin\Debug\net6.0\HazirMethodlarString.runtimeconfig.json
+C:\Users\Page\Patika\C#101\HazirMethodlarString\bin\Debug\net6.0\HazirMethodlarString.dll
+C:\Users\Page\Patika\C#101\HazirMethodlarString\bin\Debug\net6.0\ref\HazirMethodlarString.dll
+C:\Users\Page\Patika\C#101\HazirMethodlarString\bin\Debug\net6.0\HazirMethodlarString.pdb
+C:\Users\Page\Patika\C#101\HazirMethodlarString\obj\Debug\net6.0\HazirMethodlarString.csproj.AssemblyReference.cache
+C:\Users\Page\Patika\C#101\HazirMethodlarString\obj\Debug\net6.0\HazirMethodlarString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Page\Patika\C#101\HazirMethodlarString\obj\Debug\net6.0\HazirMethodlarString.AssemblyInfoInputs.cache
+C:\Users\Page\Patika\C#101\HazirMethodlarString\obj\Debug\net6.0\HazirMethodlarString.AssemblyInfo.cs
+C:\Users\Page\Patika\C#101\HazirMethodlarString\obj\Debug\net6.0\HazirMethodlarString.csproj.CoreCompileInputs.cache
+C:\Users\Page\Patika\C#101\HazirMethodlarString\obj\Debug\net6.0\HazirMethodlarString.dll
+C:\Users\Page\Patika\C#101\HazirMethodlarString\obj\Debug\net6.0\ref\HazirMethodlarString.dll
+C:\Users\Page\Patika\C#101\HazirMethodlarString\obj\Debug\net6.0\HazirMethodlarString.pdb
+C:\Users\Page\Patika\C#101\HazirMethodlarString\obj\Debug\net6.0\HazirMethodlarString.genruntimeconfig.cache

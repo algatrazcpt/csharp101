@@ -1,0 +1,15 @@
+C:\Users\Page\Patika\C#101\MethodExtensionRekürsif\obj\Debug\net6.0\MethodExtensionRekürsif.csproj.AssemblyReference.cache
+C:\Users\Page\Patika\C#101\MethodExtensionRekürsif\obj\Debug\net6.0\MethodExtensionRekürsif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Page\Patika\C#101\MethodExtensionRekürsif\obj\Debug\net6.0\MethodExtensionRekürsif.AssemblyInfoInputs.cache
+C:\Users\Page\Patika\C#101\MethodExtensionRekürsif\obj\Debug\net6.0\MethodExtensionRekürsif.AssemblyInfo.cs
+C:\Users\Page\Patika\C#101\MethodExtensionRekürsif\obj\Debug\net6.0\MethodExtensionRekürsif.csproj.CoreCompileInputs.cache
+C:\Users\Page\Patika\C#101\MethodExtensionRekürsif\bin\Debug\net6.0\MethodExtensionRekürsif.exe
+C:\Users\Page\Patika\C#101\MethodExtensionRekürsif\bin\Debug\net6.0\MethodExtensionRekürsif.deps.json
+C:\Users\Page\Patika\C#101\MethodExtensionRekürsif\bin\Debug\net6.0\MethodExtensionRekürsif.runtimeconfig.json
+C:\Users\Page\Patika\C#101\MethodExtensionRekürsif\bin\Debug\net6.0\MethodExtensionRekürsif.dll
+C:\Users\Page\Patika\C#101\MethodExtensionRekürsif\bin\Debug\net6.0\ref\MethodExtensionRekürsif.dll
+C:\Users\Page\Patika\C#101\MethodExtensionRekürsif\bin\Debug\net6.0\MethodExtensionRekürsif.pdb
+C:\Users\Page\Patika\C#101\MethodExtensionRekürsif\obj\Debug\net6.0\MethodExtensionRekürsif.dll
+C:\Users\Page\Patika\C#101\MethodExtensionRekürsif\obj\Debug\net6.0\ref\MethodExtensionRekürsif.dll
+C:\Users\Page\Patika\C#101\MethodExtensionRekürsif\obj\Debug\net6.0\MethodExtensionRekürsif.pdb
+C:\Users\Page\Patika\C#101\MethodExtensionRekürsif\obj\Debug\net6.0\MethodExtensionRekürsif.genruntimeconfig.cache

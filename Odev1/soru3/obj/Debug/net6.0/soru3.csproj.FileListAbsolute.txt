@@ -1,0 +1,15 @@
+C:\Users\Page\Patika\C#101\Odev1\soru3\bin\Debug\net6.0\soru3.exe
+C:\Users\Page\Patika\C#101\Odev1\soru3\bin\Debug\net6.0\soru3.deps.json
+C:\Users\Page\Patika\C#101\Odev1\soru3\bin\Debug\net6.0\soru3.runtimeconfig.json
+C:\Users\Page\Patika\C#101\Odev1\soru3\bin\Debug\net6.0\soru3.dll
+C:\Users\Page\Patika\C#101\Odev1\soru3\bin\Debug\net6.0\ref\soru3.dll
+C:\Users\Page\Patika\C#101\Odev1\soru3\bin\Debug\net6.0\soru3.pdb
+C:\Users\Page\Patika\C#101\Odev1\soru3\obj\Debug\net6.0\soru3.csproj.AssemblyReference.cache
+C:\Users\Page\Patika\C#101\Odev1\soru3\obj\Debug\net6.0\soru3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Page\Patika\C#101\Odev1\soru3\obj\Debug\net6.0\soru3.AssemblyInfoInputs.cache
+C:\Users\Page\Patika\C#101\Odev1\soru3\obj\Debug\net6.0\soru3.AssemblyInfo.cs
+C:\Users\Page\Patika\C#101\Odev1\soru3\obj\Debug\net6.0\soru3.csproj.CoreCompileInputs.cache
+C:\Users\Page\Patika\C#101\Odev1\soru3\obj\Debug\net6.0\soru3.dll
+C:\Users\Page\Patika\C#101\Odev1\soru3\obj\Debug\net6.0\ref\soru3.dll
+C:\Users\Page\Patika\C#101\Odev1\soru3\obj\Debug\net6.0\soru3.pdb
+C:\Users\Page\Patika\C#101\Odev1\soru3\obj\Debug\net6.0\soru3.genruntimeconfig.cache

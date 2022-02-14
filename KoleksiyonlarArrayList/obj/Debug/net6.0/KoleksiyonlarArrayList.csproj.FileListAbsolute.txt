@@ -1,0 +1,15 @@
+C:\Users\Page\Patika\C#101\KoleksiyonlarArrayList\bin\Debug\net6.0\KoleksiyonlarArrayList.exe
+C:\Users\Page\Patika\C#101\KoleksiyonlarArrayList\bin\Debug\net6.0\KoleksiyonlarArrayList.deps.json
+C:\Users\Page\Patika\C#101\KoleksiyonlarArrayList\bin\Debug\net6.0\KoleksiyonlarArrayList.runtimeconfig.json
+C:\Users\Page\Patika\C#101\KoleksiyonlarArrayList\bin\Debug\net6.0\KoleksiyonlarArrayList.dll
+C:\Users\Page\Patika\C#101\KoleksiyonlarArrayList\bin\Debug\net6.0\ref\KoleksiyonlarArrayList.dll
+C:\Users\Page\Patika\C#101\KoleksiyonlarArrayList\bin\Debug\net6.0\KoleksiyonlarArrayList.pdb
+C:\Users\Page\Patika\C#101\KoleksiyonlarArrayList\obj\Debug\net6.0\KoleksiyonlarArrayList.csproj.AssemblyReference.cache
+C:\Users\Page\Patika\C#101\KoleksiyonlarArrayList\obj\Debug\net6.0\KoleksiyonlarArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Page\Patika\C#101\KoleksiyonlarArrayList\obj\Debug\net6.0\KoleksiyonlarArrayList.AssemblyInfoInputs.cache
+C:\Users\Page\Patika\C#101\KoleksiyonlarArrayList\obj\Debug\net6.0\KoleksiyonlarArrayList.AssemblyInfo.cs
+C:\Users\Page\Patika\C#101\KoleksiyonlarArrayList\obj\Debug\net6.0\KoleksiyonlarArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Page\Patika\C#101\KoleksiyonlarArrayList\obj\Debug\net6.0\KoleksiyonlarArrayList.dll
+C:\Users\Page\Patika\C#101\KoleksiyonlarArrayList\obj\Debug\net6.0\ref\KoleksiyonlarArrayList.dll
+C:\Users\Page\Patika\C#101\KoleksiyonlarArrayList\obj\Debug\net6.0\KoleksiyonlarArrayList.pdb
+C:\Users\Page\Patika\C#101\KoleksiyonlarArrayList\obj\Debug\net6.0\KoleksiyonlarArrayList.genruntimeconfig.cache

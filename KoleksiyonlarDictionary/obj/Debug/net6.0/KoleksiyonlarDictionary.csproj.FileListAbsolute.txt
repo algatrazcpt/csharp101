@@ -1,0 +1,15 @@
+C:\Users\Page\Patika\C#101\KoleksiyonlarDictionary\obj\Debug\net6.0\KoleksiyonlarDictionary.csproj.AssemblyReference.cache
+C:\Users\Page\Patika\C#101\KoleksiyonlarDictionary\obj\Debug\net6.0\KoleksiyonlarDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Page\Patika\C#101\KoleksiyonlarDictionary\obj\Debug\net6.0\KoleksiyonlarDictionary.AssemblyInfoInputs.cache
+C:\Users\Page\Patika\C#101\KoleksiyonlarDictionary\obj\Debug\net6.0\KoleksiyonlarDictionary.AssemblyInfo.cs
+C:\Users\Page\Patika\C#101\KoleksiyonlarDictionary\obj\Debug\net6.0\KoleksiyonlarDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Page\Patika\C#101\KoleksiyonlarDictionary\bin\Debug\net6.0\KoleksiyonlarDictionary.exe
+C:\Users\Page\Patika\C#101\KoleksiyonlarDictionary\bin\Debug\net6.0\KoleksiyonlarDictionary.deps.json
+C:\Users\Page\Patika\C#101\KoleksiyonlarDictionary\bin\Debug\net6.0\KoleksiyonlarDictionary.runtimeconfig.json
+C:\Users\Page\Patika\C#101\KoleksiyonlarDictionary\bin\Debug\net6.0\KoleksiyonlarDictionary.dll
+C:\Users\Page\Patika\C#101\KoleksiyonlarDictionary\bin\Debug\net6.0\ref\KoleksiyonlarDictionary.dll
+C:\Users\Page\Patika\C#101\KoleksiyonlarDictionary\bin\Debug\net6.0\KoleksiyonlarDictionary.pdb
+C:\Users\Page\Patika\C#101\KoleksiyonlarDictionary\obj\Debug\net6.0\KoleksiyonlarDictionary.dll
+C:\Users\Page\Patika\C#101\KoleksiyonlarDictionary\obj\Debug\net6.0\ref\KoleksiyonlarDictionary.dll
+C:\Users\Page\Patika\C#101\KoleksiyonlarDictionary\obj\Debug\net6.0\KoleksiyonlarDictionary.pdb
+C:\Users\Page\Patika\C#101\KoleksiyonlarDictionary\obj\Debug\net6.0\KoleksiyonlarDictionary.genruntimeconfig.cache

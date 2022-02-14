@@ -2,6 +2,10 @@
 Console.WriteLine("Tip Döşümleri");
 // implicit Conversion
 
+// stringi 24 saate cevirir
+string s="12:07:45PM";
+var k=DateTime.Parse(s).ToString("HH:mm:ss");
+Console.WriteLine(k.ToString());
 
 byte a=1;
 sbyte b=1;

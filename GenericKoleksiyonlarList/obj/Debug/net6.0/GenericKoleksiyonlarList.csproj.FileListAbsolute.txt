@@ -1,0 +1,15 @@
+C:\Users\Page\Patika\C#101\GenericKoleksiyonlarList\bin\Debug\net6.0\GenericKoleksiyonlarList.exe
+C:\Users\Page\Patika\C#101\GenericKoleksiyonlarList\bin\Debug\net6.0\GenericKoleksiyonlarList.deps.json
+C:\Users\Page\Patika\C#101\GenericKoleksiyonlarList\bin\Debug\net6.0\GenericKoleksiyonlarList.runtimeconfig.json
+C:\Users\Page\Patika\C#101\GenericKoleksiyonlarList\bin\Debug\net6.0\GenericKoleksiyonlarList.dll
+C:\Users\Page\Patika\C#101\GenericKoleksiyonlarList\bin\Debug\net6.0\ref\GenericKoleksiyonlarList.dll
+C:\Users\Page\Patika\C#101\GenericKoleksiyonlarList\bin\Debug\net6.0\GenericKoleksiyonlarList.pdb
+C:\Users\Page\Patika\C#101\GenericKoleksiyonlarList\obj\Debug\net6.0\GenericKoleksiyonlarList.csproj.AssemblyReference.cache
+C:\Users\Page\Patika\C#101\GenericKoleksiyonlarList\obj\Debug\net6.0\GenericKoleksiyonlarList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Page\Patika\C#101\GenericKoleksiyonlarList\obj\Debug\net6.0\GenericKoleksiyonlarList.AssemblyInfoInputs.cache
+C:\Users\Page\Patika\C#101\GenericKoleksiyonlarList\obj\Debug\net6.0\GenericKoleksiyonlarList.AssemblyInfo.cs
+C:\Users\Page\Patika\C#101\GenericKoleksiyonlarList\obj\Debug\net6.0\GenericKoleksiyonlarList.csproj.CoreCompileInputs.cache
+C:\Users\Page\Patika\C#101\GenericKoleksiyonlarList\obj\Debug\net6.0\GenericKoleksiyonlarList.dll
+C:\Users\Page\Patika\C#101\GenericKoleksiyonlarList\obj\Debug\net6.0\ref\GenericKoleksiyonlarList.dll
+C:\Users\Page\Patika\C#101\GenericKoleksiyonlarList\obj\Debug\net6.0\GenericKoleksiyonlarList.pdb
+C:\Users\Page\Patika\C#101\GenericKoleksiyonlarList\obj\Debug\net6.0\GenericKoleksiyonlarList.genruntimeconfig.cache

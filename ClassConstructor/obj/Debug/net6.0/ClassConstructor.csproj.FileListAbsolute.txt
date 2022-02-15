@@ -1,0 +1,15 @@
+C:\Users\Page\Patika\C#101\ClassConstructor\obj\Debug\net6.0\ClassConstructor.csproj.AssemblyReference.cache
+C:\Users\Page\Patika\C#101\ClassConstructor\obj\Debug\net6.0\ClassConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Page\Patika\C#101\ClassConstructor\obj\Debug\net6.0\ClassConstructor.AssemblyInfoInputs.cache
+C:\Users\Page\Patika\C#101\ClassConstructor\obj\Debug\net6.0\ClassConstructor.AssemblyInfo.cs
+C:\Users\Page\Patika\C#101\ClassConstructor\obj\Debug\net6.0\ClassConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Page\Patika\C#101\ClassConstructor\bin\Debug\net6.0\ClassConstructor.exe
+C:\Users\Page\Patika\C#101\ClassConstructor\bin\Debug\net6.0\ClassConstructor.deps.json
+C:\Users\Page\Patika\C#101\ClassConstructor\bin\Debug\net6.0\ClassConstructor.runtimeconfig.json
+C:\Users\Page\Patika\C#101\ClassConstructor\bin\Debug\net6.0\ClassConstructor.dll
+C:\Users\Page\Patika\C#101\ClassConstructor\bin\Debug\net6.0\ref\ClassConstructor.dll
+C:\Users\Page\Patika\C#101\ClassConstructor\bin\Debug\net6.0\ClassConstructor.pdb
+C:\Users\Page\Patika\C#101\ClassConstructor\obj\Debug\net6.0\ClassConstructor.dll
+C:\Users\Page\Patika\C#101\ClassConstructor\obj\Debug\net6.0\ref\ClassConstructor.dll
+C:\Users\Page\Patika\C#101\ClassConstructor\obj\Debug\net6.0\ClassConstructor.pdb
+C:\Users\Page\Patika\C#101\ClassConstructor\obj\Debug\net6.0\ClassConstructor.genruntimeconfig.cache

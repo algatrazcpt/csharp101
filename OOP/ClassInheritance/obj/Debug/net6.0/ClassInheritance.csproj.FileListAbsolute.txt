@@ -1,0 +1,15 @@
+C:\Users\Page\Patika\C#101\ClassInheritance\bin\Debug\net6.0\ClassInheritance.exe
+C:\Users\Page\Patika\C#101\ClassInheritance\bin\Debug\net6.0\ClassInheritance.deps.json
+C:\Users\Page\Patika\C#101\ClassInheritance\bin\Debug\net6.0\ClassInheritance.runtimeconfig.json
+C:\Users\Page\Patika\C#101\ClassInheritance\bin\Debug\net6.0\ClassInheritance.dll
+C:\Users\Page\Patika\C#101\ClassInheritance\bin\Debug\net6.0\ref\ClassInheritance.dll
+C:\Users\Page\Patika\C#101\ClassInheritance\bin\Debug\net6.0\ClassInheritance.pdb
+C:\Users\Page\Patika\C#101\ClassInheritance\obj\Debug\net6.0\ClassInheritance.csproj.AssemblyReference.cache
+C:\Users\Page\Patika\C#101\ClassInheritance\obj\Debug\net6.0\ClassInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Page\Patika\C#101\ClassInheritance\obj\Debug\net6.0\ClassInheritance.AssemblyInfoInputs.cache
+C:\Users\Page\Patika\C#101\ClassInheritance\obj\Debug\net6.0\ClassInheritance.AssemblyInfo.cs
+C:\Users\Page\Patika\C#101\ClassInheritance\obj\Debug\net6.0\ClassInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Page\Patika\C#101\ClassInheritance\obj\Debug\net6.0\ClassInheritance.dll
+C:\Users\Page\Patika\C#101\ClassInheritance\obj\Debug\net6.0\ref\ClassInheritance.dll
+C:\Users\Page\Patika\C#101\ClassInheritance\obj\Debug\net6.0\ClassInheritance.pdb
+C:\Users\Page\Patika\C#101\ClassInheritance\obj\Debug\net6.0\ClassInheritance.genruntimeconfig.cache

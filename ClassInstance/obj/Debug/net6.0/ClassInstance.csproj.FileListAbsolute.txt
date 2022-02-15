@@ -1,0 +1,15 @@
+C:\Users\Page\Patika\C#101\ClassInstance\obj\Debug\net6.0\ClassInstance.csproj.AssemblyReference.cache
+C:\Users\Page\Patika\C#101\ClassInstance\obj\Debug\net6.0\ClassInstance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Page\Patika\C#101\ClassInstance\obj\Debug\net6.0\ClassInstance.AssemblyInfoInputs.cache
+C:\Users\Page\Patika\C#101\ClassInstance\obj\Debug\net6.0\ClassInstance.AssemblyInfo.cs
+C:\Users\Page\Patika\C#101\ClassInstance\obj\Debug\net6.0\ClassInstance.csproj.CoreCompileInputs.cache
+C:\Users\Page\Patika\C#101\ClassInstance\bin\Debug\net6.0\ClassInstance.exe
+C:\Users\Page\Patika\C#101\ClassInstance\bin\Debug\net6.0\ClassInstance.deps.json
+C:\Users\Page\Patika\C#101\ClassInstance\bin\Debug\net6.0\ClassInstance.runtimeconfig.json
+C:\Users\Page\Patika\C#101\ClassInstance\bin\Debug\net6.0\ClassInstance.dll
+C:\Users\Page\Patika\C#101\ClassInstance\bin\Debug\net6.0\ref\ClassInstance.dll
+C:\Users\Page\Patika\C#101\ClassInstance\bin\Debug\net6.0\ClassInstance.pdb
+C:\Users\Page\Patika\C#101\ClassInstance\obj\Debug\net6.0\ClassInstance.dll
+C:\Users\Page\Patika\C#101\ClassInstance\obj\Debug\net6.0\ref\ClassInstance.dll
+C:\Users\Page\Patika\C#101\ClassInstance\obj\Debug\net6.0\ClassInstance.pdb
+C:\Users\Page\Patika\C#101\ClassInstance\obj\Debug\net6.0\ClassInstance.genruntimeconfig.cache
